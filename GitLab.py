@@ -1,2 +1,6 @@
+import GitLabHelper
+
 def main():
-    print("This is a modern day tragedy")
+    GitLabHelper.print_our_names()
+
+main()
